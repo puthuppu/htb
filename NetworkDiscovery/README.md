@@ -8,5 +8,6 @@ sudo setcap cap_net_raw+ep /bin/ping
 
 Other network discovery tools include:
 
+- ['gobuster'](gobuster.md "gobuster notes") - Brute-force enumerator for URIs, DNS subdomains, web server virtual hosts, Amazon S3 and Google Cloud buckets, and TFTP servers
 - [`nmap`](nmap.md "nmap notes") - Network Mapper
 - [`smbclient`](../NetworkClients/smbclient.md "smbclient notes") - Server Message Block (SMB) Client

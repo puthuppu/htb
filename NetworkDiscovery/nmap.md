@@ -11,3 +11,4 @@ There are several common parameters that can be used to manage scope and discove
 - `-sC` - Default script scan
 - `-sS` - TCP SYN scan
 - `-sU` - UDP Scan
+- `--min-rate` - Speeds up the rate at which packets are sent.  
